@@ -1,5 +1,5 @@
 # Blockchain-Donation
-Developed as a part of chingari internship task
+Developed Web application to bring transparancy and stop misuse of funds in donations campaigns.
 
 
 ## Table of Contents
